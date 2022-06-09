@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 14 10:21:31 2019
-
-@author: bberg
+@author: Bruno Gideon Bergheim
 """
 #%% import packages
 import pandas as pd
